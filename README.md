@@ -5,7 +5,9 @@
 
 ### Mad Men ratings
 > Matrix
+
 ![](images/ratings_matrix.png)
 *****
->Boxplot
+> Boxplot
+
 ![](images/ratings_boxplots.png)
