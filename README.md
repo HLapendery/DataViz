@@ -1,4 +1,4 @@
 # DataViz
 
 Plot location of fench embassies
-[](images/rembassies_loc.png)
+![](images/rembassies_loc.png)
