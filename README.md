@@ -1,7 +1,7 @@
 # DataViz
 
 ### Location of french embassies
-![](images/rembassies_loc.png)
+![](images/embassies_loc.png)
 
 ### Mad Men ratings
 > Matrix
