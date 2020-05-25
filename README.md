@@ -12,6 +12,6 @@
 
 ![](images/ratings_boxplots.png) 
 
-### [French sells in 2019]
+### [French sells in 2019](Sell_Price_in_France_2019.ipynb)
 
 
