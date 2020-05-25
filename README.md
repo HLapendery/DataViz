@@ -14,4 +14,8 @@
 
 ### [French sells in 2019](Sell_Price_in_France_2019.ipynb)
 
-
+![](images/Top5Sales.png)
+*****
+![](images/Top5Prices.png)
+*****
+![](images/DeptStats.png)
