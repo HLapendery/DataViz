@@ -20,4 +20,4 @@
 *****
 ![](images/DeptStats.png)
 *****
-![](images/Sup500.html)
+![Check the map of cities with 500+ sells](images/Sup500.html)
