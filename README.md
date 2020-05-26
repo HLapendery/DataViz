@@ -19,5 +19,4 @@
 ![](images/Top5Prices.png)
 *****
 ![](images/DeptStats.png)
-*****
-![Check the map of cities with 500+ sells](images/Sup500.html)
+
